@@ -1,0 +1,40 @@
+.cart{
+    background-color: rgb(216, 199, 199);
+    color:black;
+    text-align: center;
+    padding: 10px;
+
+}
+.body {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    // margin-left:19%;
+    // margin-right:19%;
+  }
+
+.table{
+    text-align: center;
+   justify-content: center;
+   font-size: 20px;
+   width: 100%;
+}
+
+.table td {
+    padding: 15px;
+  text-align: center;
+  vertical-align: middle;
+  }  
+
+
+
+.button{
+    height:auto;
+    width: auto;
+    margin: 0 10px 0;
+    padding: 5px 10px 5px;
+    font-size: 15px; 
+    background-color: #293f57;
+    color: white;
+}
